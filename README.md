@@ -50,7 +50,7 @@ To set up the database:
 5. Copy the contents of `Amazon.sql` and execute them in your MySQL environment.
 
 ## Entity Relationship Diagram
-<img src="https://github.com/asifahamed11/amazon-ecommerce-db-schema/blob/main/amazon%20rdbms.jpg" alt="Home Screen Screenshot" title="Home Screen Screenshot" width="200"/>
+<img src="https://github.com/asifahamed11/amazon-ecommerce-db-schema/blob/main/amazon%20rdbms.jpg" alt="Home Screen Screenshot" title="Home Screen Screenshot" width="600" height="400"/>
 
 ## Contributing
 This project was created as part of an educational assignment. However, suggestions and improvements are welcome. Please open an issue to discuss proposed changes.
